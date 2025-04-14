@@ -1,0 +1,26 @@
+body{
+    background-color: #9EC6F3;
+}
+table {
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    table-layout: fixed;
+}
+h1 {
+    font-size: 1.5rem;
+}
+table tr {
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    margin: 1rem;
+}
+table th{
+    font-size: 1.2rem;
+}
+    table th,
+    table td {
+    text-align: center;
+}
